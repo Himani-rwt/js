@@ -45,3 +45,5 @@ console.log(typeof null);
 console.log(typeof heros);
 console.log(typeof id); //symbol ka dt symbol hi hai
 
+//primitive,call by vale(in stack)
+//non - primitive,call by reference(in heap)
